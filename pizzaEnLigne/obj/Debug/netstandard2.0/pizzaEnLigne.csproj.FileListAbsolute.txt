@@ -1,0 +1,15 @@
+/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne/bin/Debug/netstandard2.0/pizzaEnLigne.deps.json
+/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne/bin/Debug/netstandard2.0/pizzaEnLigne.dll
+/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne/bin/Debug/netstandard2.0/ref/pizzaEnLigne.dll
+/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne/bin/Debug/netstandard2.0/pizzaEnLigne.pdb
+/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne/obj/Debug/netstandard2.0/pizzaEnLigne.csproj.AssemblyReference.cache
+/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne/obj/Debug/netstandard2.0/pizzaEnLigne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne/obj/Debug/netstandard2.0/pizzaEnLigne.AssemblyInfoInputs.cache
+/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne/obj/Debug/netstandard2.0/pizzaEnLigne.AssemblyInfo.cs
+/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne/obj/Debug/netstandard2.0/pizzaEnLigne.csproj.CoreCompileInputs.cache
+/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne/obj/Debug/netstandard2.0/pizzaEnLigne.dll
+/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne/obj/Debug/netstandard2.0/refint/pizzaEnLigne.dll
+/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne/obj/Debug/netstandard2.0/pizzaEnLigne.pdb
