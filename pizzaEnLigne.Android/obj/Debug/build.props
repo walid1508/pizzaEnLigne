@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=unix
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638272732626529937
+_nugetassetstimestamp=638273521927099121
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=/users/waliddjato-kpane/downloads/pizzaenligne/pizzaenligne.android/pizzaenligne.android.csproj
+projectfullpath=/users/waliddjato-kpane/desktop/pizzaenligne/pizzaenligne.android/pizzaenligne.android.csproj

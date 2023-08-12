@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NgQyS4ytnmk+YmTNEbg4TBUM6YUG++rb3cyiKB4fzyMRjlriSP8Eb26h/NkUwYLiZXNoDpK7Hfbn1Hvve71mig==",
+  "dgSpecHash": "T58S/3t1T/2bKVib3/NL1AvPz+B646SrHzMCiJMkY/TIdlaz9VbroMLd3HhxBMPg4daNKmPkOEYZd2egyka44g==",
   "success": true,
-  "projectFilePath": "/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne.iOS/pizzaEnLigne.iOS.csproj",
+  "projectFilePath": "/Users/waliddjato-kpane/Desktop/pizzaEnLigne/pizzaEnLigne.iOS/pizzaEnLigne.iOS.csproj",
   "expectedPackageFiles": [
+    "/Users/waliddjato-kpane/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/waliddjato-kpane/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/waliddjato-kpane/.nuget/packages/xamarin.essentials/1.8.0/xamarin.essentials.1.8.0.nupkg.sha512",
     "/Users/waliddjato-kpane/.nuget/packages/xamarin.forms/5.0.0.2612/xamarin.forms.5.0.0.2612.nupkg.sha512"

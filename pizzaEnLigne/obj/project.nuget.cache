@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/9I73FZFRV8WaWS0JnzbkYuQyFhHpDecW5IRpYZGv8v2qv0tyeZ8KaTkfgVVCyZ3h+/kIOJ3/LkL/JONkhn9rg==",
+  "dgSpecHash": "KyAp4NwOKeWC5+6HR/UKS3cm2zturOwrGPZ4txyaLUW02m6JNUUM8s1xVbKL8NxIWb+WGEUAxrquplBCgVN6zA==",
   "success": true,
-  "projectFilePath": "/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne/pizzaEnLigne.csproj",
+  "projectFilePath": "/Users/waliddjato-kpane/Desktop/pizzaEnLigne/pizzaEnLigne/pizzaEnLigne.csproj",
   "expectedPackageFiles": [
     "/Users/waliddjato-kpane/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/waliddjato-kpane/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/waliddjato-kpane/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/waliddjato-kpane/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/waliddjato-kpane/.nuget/packages/xamarin.essentials/1.8.0/xamarin.essentials.1.8.0.nupkg.sha512",
     "/Users/waliddjato-kpane/.nuget/packages/xamarin.forms/5.0.0.2612/xamarin.forms.5.0.0.2612.nupkg.sha512"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne.Android/pizzaEnLigne.Android.csproj": {}
+    "/Users/waliddjato-kpane/Desktop/pizzaEnLigne/pizzaEnLigne.Android/pizzaEnLigne.Android.csproj": {}
   },
   "projects": {
-    "/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne.Android/pizzaEnLigne.Android.csproj": {
+    "/Users/waliddjato-kpane/Desktop/pizzaEnLigne/pizzaEnLigne.Android/pizzaEnLigne.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne.Android/pizzaEnLigne.Android.csproj",
+        "projectUniqueName": "/Users/waliddjato-kpane/Desktop/pizzaEnLigne/pizzaEnLigne.Android/pizzaEnLigne.Android.csproj",
         "projectName": "pizzaEnLigne.Android",
-        "projectPath": "/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne.Android/pizzaEnLigne.Android.csproj",
+        "projectPath": "/Users/waliddjato-kpane/Desktop/pizzaEnLigne/pizzaEnLigne.Android/pizzaEnLigne.Android.csproj",
         "packagesPath": "/Users/waliddjato-kpane/.nuget/packages/",
-        "outputPath": "/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne.Android/obj/",
+        "outputPath": "/Users/waliddjato-kpane/Desktop/pizzaEnLigne/pizzaEnLigne.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid13.0": {
             "projectReferences": {
-              "/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne/pizzaEnLigne.csproj": {
-                "projectPath": "/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne/pizzaEnLigne.csproj"
+              "/Users/waliddjato-kpane/Desktop/pizzaEnLigne/pizzaEnLigne/pizzaEnLigne.csproj": {
+                "projectPath": "/Users/waliddjato-kpane/Desktop/pizzaEnLigne/pizzaEnLigne/pizzaEnLigne.csproj"
               }
             }
           }
@@ -36,6 +36,10 @@
       "frameworks": {
         "monoandroid13.0": {
           "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.8.0, )"
@@ -48,14 +52,14 @@
         }
       }
     },
-    "/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne/pizzaEnLigne.csproj": {
+    "/Users/waliddjato-kpane/Desktop/pizzaEnLigne/pizzaEnLigne/pizzaEnLigne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne/pizzaEnLigne.csproj",
+        "projectUniqueName": "/Users/waliddjato-kpane/Desktop/pizzaEnLigne/pizzaEnLigne/pizzaEnLigne.csproj",
         "projectName": "pizzaEnLigne",
-        "projectPath": "/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne/pizzaEnLigne.csproj",
+        "projectPath": "/Users/waliddjato-kpane/Desktop/pizzaEnLigne/pizzaEnLigne/pizzaEnLigne.csproj",
         "packagesPath": "/Users/waliddjato-kpane/.nuget/packages/",
-        "outputPath": "/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne/obj/",
+        "outputPath": "/Users/waliddjato-kpane/Desktop/pizzaEnLigne/pizzaEnLigne/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/waliddjato-kpane/.config/NuGet/NuGet.Config"
@@ -88,6 +92,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",

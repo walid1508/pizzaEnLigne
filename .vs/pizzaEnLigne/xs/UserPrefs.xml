@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C67ADB9B-BA43-4C6D-AE75-E124757C8BAF}|Default">
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.1.2" />
+  <MonoDevelop.Ide.ItemProperties.pizzaEnLigne.Android PreferredExecutionTarget="Android.pixel_5_-_api_29" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_29" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="pizzaEnLigne/MainPage.xaml.cs">
+    <Files>
+      <File FileName="pizzaEnLigne/MainPage.xaml" />
+      <File FileName="pizzaEnLigne/Model/Pizza.cs" Line="11" Column="23" />
+      <File FileName="pizzaEnLigne/MainPage.xaml.cs" Line="8" Column="2" />
+      <File FileName="pizzaEnLigne.iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="pizzaEnLigne" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.pizzaEnLigne.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.45C3C689-3CB7-4672-A0CD-B98279941B1D" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

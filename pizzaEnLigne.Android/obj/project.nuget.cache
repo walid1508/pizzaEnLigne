@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "l2PtmKY+6jog9y29MvHKZF3ZvRfZOjHrfaTI9ahzJpFlfC/Dg84e45gUc7QmLFRC+78K732MYJqG1ZvRaaAREA==",
+  "dgSpecHash": "oVJ3gyK4Hi5Sath2KyDO5ZP/Ipvf2m0vf0n6RD2oRsxwiOONSJuAWVk91wlPaHzM+jl5+j3sDjSQsbhBktVmEA==",
   "success": true,
-  "projectFilePath": "/Users/waliddjato-kpane/Downloads/pizzaEnLigne/pizzaEnLigne.Android/pizzaEnLigne.Android.csproj",
+  "projectFilePath": "/Users/waliddjato-kpane/Desktop/pizzaEnLigne/pizzaEnLigne.Android/pizzaEnLigne.Android.csproj",
   "expectedPackageFiles": [
+    "/Users/waliddjato-kpane/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/waliddjato-kpane/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/waliddjato-kpane/.nuget/packages/xamarin.androidx.activity/1.6.1/xamarin.androidx.activity.1.6.1.nupkg.sha512",
     "/Users/waliddjato-kpane/.nuget/packages/xamarin.androidx.annotation/1.6.0.1/xamarin.androidx.annotation.1.6.0.1.nupkg.sha512",
