@@ -14,4 +14,5 @@ Xamarin.Forms
 
 ## Installation
 
-Clonez ce dépôt sur votre machine locale.
+1-Clonez ce dépôt sur votre machine locale.
+2-Ouvrir le dépôt dans l'éditeur de code de votre choix et ensuite executer.
